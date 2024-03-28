@@ -25,6 +25,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "main": "node_modules/expo/AppEntry" // Add this line to specify the entry point file
   }
 }
